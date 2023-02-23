@@ -50,6 +50,7 @@ python3 HandTrackingDemo.py
 ```
 
 
+![ Hand Gesture Control ](HandTracking.png)
 
 
 
